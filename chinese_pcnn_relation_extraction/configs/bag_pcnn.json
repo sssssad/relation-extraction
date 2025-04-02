@@ -1,0 +1,21 @@
+{
+    "bag_mode": "att",
+    "max_seq_length": 128,
+    "hidden_size": 230,
+    "word_size": 50,
+    "position_size": 5,
+    "kernel_size": 3,
+    "padding_size": 1,
+    "dropout": 0.1,
+    "mask_entity": false,
+    
+    "batch_size": 32,
+    "eval_batch_size": 64,
+    "learning_rate": 1e-3,
+    "weight_decay": 1e-5,
+    "adam_epsilon": 1e-8,
+    "max_grad_norm": 1.0,
+    "num_train_epochs": 30,
+    "logging_steps": 10,
+    "seed": 42
+} 

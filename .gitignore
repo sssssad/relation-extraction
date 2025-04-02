@@ -130,3 +130,6 @@ benchmark
 opennre-egg.info
 
 *.sh
+
+# model
+*.pt
